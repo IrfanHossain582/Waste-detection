@@ -1,8 +1,3 @@
-Here is a **clean, professional, well-organized README.md** for your Raspberry Pi garbage classification project — perfect for GitHub.
-I wrote it based on **your code, your hardware, your ML model, your conveyor belt system, and your workflow**.
-
----
-
 # ♻️ **Smart Waste Classification & Sorting System**
 
 ### *Raspberry Pi 4 | OpenCV | TensorFlow | Servo + DC Motors | Ultrasonic Sensor | LCD Display*
